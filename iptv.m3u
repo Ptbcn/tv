@@ -1,0 +1,194 @@
+#EXTM3U @PTbcn https://github.com/PTbcn/TVP
+
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="News" tvg-name="24h",24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-id="7NN.TV" tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="News" tvg-name="7NN Noticias",7NN Noticias
+https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsES.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="News" tvg-name="Euronews ES",Euronews ES
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="News" tvg-name="El Toro TV",El Toro TV
+https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
+
+#EXTINF:-1 tvg-id="3/24.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_3-24_de_TVC.jpg" group-title="News" tvg-name="3/24",3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="News" tvg-name="Negocios TV",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.TV" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News" tvg-name="BFMTV",BFMTV
+https://bfmtvalive1-a.akamaihd.net/r13240d2722f04909a6698e7d03165c71/eu-central-1/876450610001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BFM-Business.png" group-title="News" tvg-name="BFM Business",BFM Business
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="LCI.TV" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="News" tvg-name="LCI",LCI
+https://live-lci-das.cdn-0.diff.tf1.fr/video/57HxZzlT_7COUcSVWjcoOQ/1670771288/out/v1/3949f9922e0046a0926e11f8687e1c1a/index.mpdhttps://live-lci-das.cdn-0.diff.tf1.fr/video/57HxZzlT_7COUcSVWjcoOQ/1670771288/out/v1/3949f9922e0046a0926e11f8687e1c1a/index.mpd
+
+#EXTINF:-1 tvg-id="CNews.TV" tvg-logo="https://i.imgur.com/iWIjua3.png" group-title="News" tvg-name="CNews",CNews
+https://www.dailymotion.com/cdn/live/video/x3b68jn.m3u8?sec=nKDs9W0ByXCbfd8u9KpG0_kdr3EQuPXc3EyUttJL7EMc_9MtEiEzecj_KMK58Mu8kcfHP0qOaSeiqosL7RwJAw&dmTs=762618&dmV1st=498E2FA466CBD715666932C262D01717https://www.dailymotion.com/cdn/live/video/x3b68jn.m3u8?sec=nKDs9W0ByXCbfd8u9KpG0_kdr3EQuPXc3EyUttJL7EMc_9MtEiEzecj_KMK58Mu8kcfHP0qOaSeiqosL7RwJAw&dmTs=762618&dmV1st=498E2FA466CBD715666932C262D01717
+
+#EXTINF:-1 tvg-id="EuronewsFR.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="News" tvg-name="Euronews FR",Euronews FR
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://i.imgur.com/1NHCrPM.png" group-title="News" tvg-name="France 24 FR",France 24 FR
+https://helga.iptv2022.com/France24_fr/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5Mondeinfo.TV" tvg-logo="https://i.imgur.com/NcysrWH.png" group-title="News" tvg-name="TV5 Monde Info",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+
+EXTINF:-1 tvg-id="FranceInfo.TV" group-title="News" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="FranceInfo", FranceInfo
+https://simulcast-p.ftven.fr/ZXhwPTE2NzA1NTQyNjZ+YWNsPSUyZip+aG1hYz05ODZiZmQwNWQxNTllOTUyNTc5MWViZDQwY2JiYzBkMTMzZGQzYjU1Y2I4NjAzOWU3NGY4YzE5ODk4NzZhNTAw/simulcast/France_Info/hls_monde_frinfo/France_Info-avc1_2500000=10001.m3u8
+
+#EXTINF:-1 tvg-id="LN24.TV" tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200" group-title="News" tvg-name="LN24",LN24 
+https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNPortugal.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="News" tvg-name="CNN Portugal",CNN Portugal
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiAxMDoxNjoyMCBQTSZoYXNoX3ZhbHVlPVFCUGJrcmdVZmxSdVozY1Q2ZllVOWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01YTA1MTk3MS1iZGUyLTQzYzMtOTMxZS00OTczNWNkMzQzMmY=/
+
+#EXTINF:-1 tvg-id="RTP3.TV" tvg-logo="https://graph.facebook.com/rtp/picture?width=200&height=200" group-title="News" tvg-name="RTP 3",RTP 3
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/rtp_playlist.m3u8|user-agent="RTP-Play"
+
+#EXTINF:-1 tvg-id="EuronewsPT.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="News " tvg-name="Euronews PT",Euronews PT
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNInternational.TV" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320" group-title="News" tvg-name="CNN International",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCWorld.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1024px-BBC_World_News_2019.svg.png" group-title="News" tvg-name="BBC World News",BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="News" tvg-name="BBC News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews.TV" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="News" tvg-name="Sky News",Sky News
+https://linear116-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynewsinternational)/index_hd.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png" group-title="News" tvg-name="AlJazeera",AlJazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="News" tvg-name="DW",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="France23.TV" tvg-logo="https://i.imgur.com/1NHCrPM.png" group-title="News" tvg-name="France 24",France 24
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670610978/ei/wSuTY7njMbmU2_gP6p-ewAk/ip/104.214.108.18/id/h3MuIUNCCzI.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKEyDZGe-v1jMCjuXibhTd8STWACQvb_78I4Xhdp3EJPAiEAiwXO6dbPdz5STpf5o8Ir6Rs7Q0JeG-A3cy1MfsAhOqY%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="Reuters.TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" group-title="News" tvg-name="Reuters TV",Reuters TV
+https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTNews" group-title="News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",tvg-name="RT News",RT News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="Press.TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" group-title="News" tvg-name="Press TV",Press TV
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+
+EXTINF:-1 tvg-id="GBNews.TV" tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" group-title="News" tvg-name="GB News",GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+
+EXTINF:-1 tvg-id="RTÉNews.TV" tvg-logo="https://graph.facebook.com/rtenews/picture?width=200&height=200" group-title="News" tvg-name="RTÉ News Irlanda",RTÉ News
+https://live.rte.ie/live/a/channel3/news.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBCNews.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png" group-title="News" tvg-name="NBC News Now",NBC News Now
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+
+#EXTINF:-1 "ABCNews.TV" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" group-title="News" tvg-name="ABC News",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+EXTINF:-1 "CBSNews.TV" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="News" tvg-name="CBS News",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="FOXLiveNow.TV" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="News" tvg-name="FOX Live Now",FOX Live Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+EXTINF:-1 tvg-id="FoxNews.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News" tvg-name="Fox News",Fox News
+https://h4.ustvgo.la/FoxNews/myStream/chunks.m3u8?nimblesessionid=315729289&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIyIDk6Mjg6MTEgUE0maGFzaF92YWx1ZT1RcXZ2TWdDSjY1Ums0U3dsQXJSYm5nPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 tvg-id="Newsmax.TV"tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="News" tvg-name="Newsmax TV",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2560px-New_Bloomberg_Logo.svg.png" group-title="News" tvg-name="Bloomberg",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-id="NHK.TV" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200" group-title="News" tvg-name="NHK World",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 tvg-id="Arirang.TV" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200" group-title="News" tvg-name="Arirang TV",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNN.TV" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200" group-title="News" tvg-name="CGTN News",CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="ChannelNewsAsia.TV" tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200" group-title="News" tvg-name="Channel NewsAsia",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="WION.TV" tvg-logo="https://i.imgur.com/3PH7frA.jpg" group-title="News" tvg-name="WION",WION
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670610977/ei/wCuTY7KsN92Dir4PvbeDmAc/ip/104.214.108.18/id/ivIhlPKF8a8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJSbBneUWCQKVDHQ0XAVhvMPbB-kc0_MASspw4WqIm8JAiEAuJoTPG4lE5fH49GK4sLYndxZCkWO-V7TwZgAapxd5zY%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="Africanews" tvg-logo="https://i.imgur.com/XYPqCwe.png" group-title="News" tvg-name="Africanews",Africanews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670610987/ei/yiuTY6inO7Wolu8P0dixUA/ip/104.214.108.18/id/NQjabLGdP5g.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKxvUk6NQs5zPxC10e2hJOPJtXiDFdYzZjYIwQq06NFOAiEAjQ_h8MU1xitHoya8RZ0EdwpFIc32Wm6dqjO0h1o5VrI%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="ABCaus.TV" tvg-logo="https://graph.facebook.com/abcnews.au/picture?width=200&height=200" group-title="News" tvg-name="ABC AUS",ABC AUS
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+
+
+EXTINF:-1 tvg-id="WeatherChannel.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News" tvg-name="Weather Channel",Weather Channel
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="España" tvg-name="La 1",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="España" tvg-name="La 2",La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="España" tvg-name="Antena 3",Antena 3
+http://hls.webredirect.org/e8fs/mp_6920.php/https://directo.atresmedia.com/68e9e028f9998b5883bca25fd3831c821b1fa67d_1670560808/antena3/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-id="CUATRO.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cuatro_2012.png" group-title="España" tvg-name="CUATRO",CUATRO
+https://livek.mediaset.es/orilinear21/live/linear21/playlist/playlist.isml/ctv.m3u8?hdnts=st=1670466023~exp=1670552423~acl=/*~hmac=7f6acbc0b6fe4b1097a792503e7f2c8c0ae70c8f0fcf246e7aaf679d9ff846f6
+
+#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_logo_500_-1_c0eb.png" group-title="España" tvg-name="Telecinco",Telecinco
+https://livek.mediaset.es/orilinear17/live/linear17/playlist/playlist.isml/ctv.m3u8?hdnts=st=1670466023~exp=1670552423~acl=/*~hmac=7f6acbc0b6fe4b1097a792503e7f2c8c0ae70c8f0fcf246e7aaf679d9ff846f6
+
+#EXTINF:-1 tvg-id="Sexta.TV" tvg-logo="https://img2.freepng.es/20180605/fio/kisspng-lasexta-logo-la-sexta-hd-television-treking-5b1637f654a781.9522458615281827743468.jpg" group-title="España" tvg-name="Sexta",Sexta
+http://hls.webredirect.org/e8fs/mp_6920.php/https://directo.atresmedia.com/bfe6dbb2f63a2e1650821b0e660316bd35fb3625_1670557524/lasexta/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="España" tvg-name="Telemadrid",Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+
+#EXTINF:-1 tvg-id="LaOtra.TV" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" group-title="España" tvg-name="LaOtra",LaOtra
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+
+#EXTINF:-1 tvg-id="TF1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png" group-title="France" tvg-name="TF1",TF1
+https://s13.tntendirect.com/tf1/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTP1.TV" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png?q=10&v=3&w=275" group-title="Portugal" tvg-name="RTP 1",RTP 1
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8|user-agent="RTP-Play"
+
+#EXTINF:-1 tvg-id="RTP2.TV" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png?q=10&v=3&w=275https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png?q=10&v=3&w=275" group-title="Portugal" tvg-name="RTP 2 ",RTP 2
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u8|user-agent="RTP-Play"
+
+#EXTINF:-1 tvg-id="RTPInternacional.TV" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="Portugal" tvg-name="RTP Internacional",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+
+#EXTINF:-1 tvg-id="SIC.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="Portugal" tvg-name="SIC",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1 tvg-id="TVIinternational.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/TVIInternacional2017.png" group-title="Portugal" tvg-name="TVI internacional",TVI Internacional
+https://video-auth8.iol.pt/live_tvi_ficcao/live_tvi_ficcao/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIyIDY6MToyMCBQTSZoYXNoX3ZhbHVlPVFsTEdOYkZFZ2RPWlFRY0pxRnhsaFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wZDYwMmMyMC05OTMyLTQxNTYtYmZjNC1jNTc5OGRiMDIzYzQ=
+
+#EXTINF:-1 tvg-id="PortoCanal.TV" tvg-logo="https://graph.facebook.com/portocanal/picture?width=200&height=200" group-title="Portugal" tvg-name="Porto Canal",Porto Canal
+https://stream-11.ix7.dailymotion.com/sec%28-SVy60QQ6sKn1Jfj-v9Q0mU8h9TWTi-Wbju5cXWtn5CnGP7xRBLNEB3l7rb3vZfd%29/dm/3/x8egnb8/s/live-2.m3u8
+
