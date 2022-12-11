@@ -41,7 +41,7 @@ https://helga.iptv2022.com/France24_fr/index.m3u8
 #EXTINF:-1 tvg-id="TV5Mondeinfo.TV" tvg-logo="https://i.imgur.com/NcysrWH.png" group-title="News" tvg-name="TV5 Monde Info",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
-EXTINF:-1 tvg-id="FranceInfo.TV" group-title="News" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="FranceInfo", FranceInfo
+#EXTINF:-1 tvg-id="FranceInfo.TV" group-title="News" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="FranceInfo", FranceInfo
 https://simulcast-p.ftven.fr/ZXhwPTE2NzA1NTQyNjZ+YWNsPSUyZip+aG1hYz05ODZiZmQwNWQxNTllOTUyNTc5MWViZDQwY2JiYzBkMTMzZGQzYjU1Y2I4NjAzOWU3NGY4YzE5ODk4NzZhNTAw/simulcast/France_Info/hls_monde_frinfo/France_Info-avc1_2500000=10001.m3u8
 
 #EXTINF:-1 tvg-id="LN24.TV" tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200" group-title="News" tvg-name="LN24",LN24 
@@ -74,7 +74,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="News" tvg-name="DW",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="France23.TV" tvg-logo="https://i.imgur.com/1NHCrPM.png" group-title="News" tvg-name="France 24",France 24
+#EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://i.imgur.com/1NHCrPM.png" group-title="News" tvg-name="France 24",France 24
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670610978/ei/wSuTY7njMbmU2_gP6p-ewAk/ip/104.214.108.18/id/h3MuIUNCCzI.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKEyDZGe-v1jMCjuXibhTd8STWACQvb_78I4Xhdp3EJPAiEAiwXO6dbPdz5STpf5o8Ir6Rs7Q0JeG-A3cy1MfsAhOqY%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Reuters.TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" group-title="News" tvg-name="Reuters TV",Reuters TV
@@ -89,10 +89,10 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/pl
 #EXTINF:-1 tvg-id="Press.TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" group-title="News" tvg-name="Press TV",Press TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 
-EXTINF:-1 tvg-id="GBNews.TV" tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" group-title="News" tvg-name="GB News",GB News
+#EXTINF:-1 tvg-id="GBNews.TV" tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" group-title="News" tvg-name="GB News",GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 
-EXTINF:-1 tvg-id="RTÉNews.TV" tvg-logo="https://graph.facebook.com/rtenews/picture?width=200&height=200" group-title="News" tvg-name="RTÉ News Irlanda",RTÉ News
+#EXTINF:-1 tvg-id="RTÉNews.TV" tvg-logo="https://graph.facebook.com/rtenews/picture?width=200&height=200" group-title="News" tvg-name="RTÉ News Irlanda",RTÉ News
 https://live.rte.ie/live/a/channel3/news.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBCNews.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png" group-title="News" tvg-name="NBC News Now",NBC News Now
@@ -103,13 +103,13 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN
 #EXTINF:-1 "ABCNews.TV" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" group-title="News" tvg-name="ABC News",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-EXTINF:-1 "CBSNews.TV" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="News" tvg-name="CBS News",CBS News
+#EXTINF:-1 "CBSNews.TV" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="News" tvg-name="CBS News",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-id="FOXLiveNow.TV" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="News" tvg-name="FOX Live Now",FOX Live Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-EXTINF:-1 tvg-id="FoxNews.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News" tvg-name="Fox News",Fox News
+#EXTINF:-1 tvg-id="FoxNews.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News" tvg-name="Fox News",Fox News
 https://h4.ustvgo.la/FoxNews/myStream/chunks.m3u8?nimblesessionid=315729289&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIyIDk6Mjg6MTEgUE0maGFzaF92YWx1ZT1RcXZ2TWdDSjY1Ums0U3dsQXJSYm5nPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-id="Newsmax.TV"tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="News" tvg-name="Newsmax TV",Newsmax TV
@@ -141,7 +141,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 
 
-EXTINF:-1 tvg-id="WeatherChannel.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News" tvg-name="Weather Channel",Weather Channel
+#EXTINF:-1 tvg-id="WeatherChannel.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News" tvg-name="Weather Channel",Weather Channel
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
 
