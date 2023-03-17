@@ -42,7 +42,7 @@ https://helga.iptv2022.com/France24_fr/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
 #EXTINF:-1 tvg-id="FranceInfo.TV" group-title="News" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="FranceInfo", FranceInfo
-https://simulcast-p.ftven.fr/ZXhwPTE2NzA1NTQyNjZ+YWNsPSUyZip+aG1hYz05ODZiZmQwNWQxNTllOTUyNTc5MWViZDQwY2JiYzBkMTMzZGQzYjU1Y2I4NjAzOWU3NGY4YzE5ODk4NzZhNTAw/simulcast/France_Info/hls_monde_frinfo/France_Info-avc1_2500000=10001.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fri.m3u8
 
 #EXTINF:-1 tvg-id="LN24.TV" tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200" group-title="News" tvg-name="LN24",LN24 
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
