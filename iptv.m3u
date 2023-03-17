@@ -30,7 +30,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 http://176.57.50.167:25461/536416/231244/84858?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="CNews.TV" tvg-logo="https://i.imgur.com/iWIjua3.png" group-title="News" tvg-name="CNews",CNews
-https://www.dailymotion.com/cdn/live/video/x3b68jn.m3u8?sec=nKDs9W0ByXCbfd8u9KpG0_kdr3EQuPXc3EyUttJL7EMc_9MtEiEzecj_KMK58Mu8kcf
+https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsFR.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="News" tvg-name="Euronews FR",Euronews FR
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
@@ -52,27 +52,15 @@ https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIzIDk6MTU6MTQgUE0maGFzaF92YWx1ZT1LQjlDK1gvQ1Bxamwyak5uQmV4MUhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDlhY2Q3ZjktZDM1OS00NGM5LWI0OWMtOTEyNWFiYTU0ODJl/
 
-
 #EXTINF:-1 tvg-id="RTP3.TV" tvg-logo="https://graph.facebook.com/rtp/picture?width=200&height=200" group-title="News" tvg-name="RTP 3",RTP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP3 (504p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="RTP3.TV" tvg-logo="https://graph.facebook.com/rtp/picture?width=200&height=200" group-title="News" tvg-name="RTP 3",RTP 3
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt.m3u
 
 #EXTINF:-1 tvg-id="SIC Notícias.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="News" tvg-name="SIC Notícias",SIC Noticias 
 http://176.57.50.167:25461/536416/231244/7699?checkedby:iptvcat.com
-
-
 
 #EXTINF:-1 tvg-id="EuronewsPT.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="News " tvg-name="Euronews PT",Euronews PT
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
