@@ -48,7 +48,9 @@ https://simulcast-p.ftven.fr/ZXhwPTE2NzA1NTQyNjZ+YWNsPSUyZip+aG1hYz05ODZiZmQwNWQ
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNPortugal.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="News" tvg-name="CNN Portugal",CNN Portugal
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiAxMDoxNjoyMCBQTSZoYXNoX3ZhbHVlPVFCUGJrcmdVZmxSdVozY1Q2ZllVOWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01YTA1MTk3MS1iZGUyLTQzYzMtOTMxZS00OTczNWNkMzQzMmY=/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIzIDk6MTU6MTQgUE0maGFzaF92YWx1ZT1LQjlDK1gvQ1Bxamwyak5uQmV4MUhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDlhY2Q3ZjktZDM1OS00NGM5LWI0OWMtOTEyNWFiYTU0ODJl/
 
 
 #EXTINF:-1 tvg-id="RTP3.TV" tvg-logo="https://graph.facebook.com/rtp/picture?width=200&height=200" group-title="News" tvg-name="RTP 3",RTP 3
