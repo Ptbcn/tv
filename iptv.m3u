@@ -30,7 +30,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 http://176.57.50.167:25461/536416/231244/84858?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="CNews.TV" tvg-logo="https://i.imgur.com/iWIjua3.png" group-title="News" tvg-name="CNews",CNews
-https://www.dailymotion.com/cdn/live/video/x3b68jn.m3u8?sec=nKDs9W0ByXCbfd8u9KpG0_kdr3EQuPXc3EyUttJL7EMc_9MtEiEzecj_KMK58Mu8kcfHP0qOaSeiqosL7RwJAw&dmTs=762618&dmV1st=498E2FA466CBD715666932C262D01717https://www.dailymotion.com/cdn/live/video/x3b68jn.m3u8?sec=nKDs9W0ByXCbfd8u9KpG0_kdr3EQuPXc3EyUttJL7EMc_9MtEiEzecj_KMK58Mu8kcfHP0qOaSeiqosL7RwJAw&dmTs=762618&dmV1st=498E2FA466CBD715666932C262D01717
+https://www.dailymotion.com/cdn/live/video/x3b68jn.m3u8?sec=nKDs9W0ByXCbfd8u9KpG0_kdr3EQuPXc3EyUttJL7EMc_9MtEiEzecj_KMK58Mu8kcf
 
 #EXTINF:-1 tvg-id="EuronewsFR.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="News" tvg-name="Euronews FR",Euronews FR
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
@@ -53,7 +53,7 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 tvg-id="RTP3.TV" tvg-logo="https://graph.facebook.com/rtp/picture?width=200&height=200" group-title="News" tvg-name="RTP 3",RTP 3
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/rtp_playlist.m3u8|user-agent="RTP-Play"
 
-#EXTINF:-1 tvg-id="SIC Notícias.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="News" tvg-name="RTP 3",RTP 3
+#EXTINF:-1 tvg-id="SIC Notícias.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="News" tvg-name="SIC Notícias",SIC Noticias 
 http://176.57.50.167:25461/536416/231244/7699?checkedby:iptvcat.com
 
 
