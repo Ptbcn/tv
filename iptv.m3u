@@ -53,6 +53,11 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 tvg-id="RTP3.TV" tvg-logo="https://graph.facebook.com/rtp/picture?width=200&height=200" group-title="News" tvg-name="RTP 3",RTP 3
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/rtp_playlist.m3u8|user-agent="RTP-Play"
 
+#EXTINF:-1 tvg-id="SIC Notícias.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="News" tvg-name="RTP 3",RTP 3
+http://176.57.50.167:25461/536416/231244/7699?checkedby:iptvcat.com
+
+
+
 #EXTINF:-1 tvg-id="EuronewsPT.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="News " tvg-name="Euronews PT",Euronews PT
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
