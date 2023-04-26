@@ -18,8 +18,8 @@ https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="News" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-EXTINF:-1 tvg-id="BFMTV.TV" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News" tvg-name="BFMTV",BFMTV
-https://bfmtvalive1-a.akamaihd.net/r47fffa74638f461ab9168372ab825c95/eu-central-1/876450610001/playlist.m3u8
+#EXTINF:-1 tvg-id="BFMTV.TV" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News" tvg-name="BFMTV",BFMTV
+https://bfmtvalive1-a.akamaihd.net/r253dc974e55741fdaa2b250a83d40fa2/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u
 
 #EXTINF:-1 tvg-id="BFMBusiness.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BFM-Business.png" group-title="News" tvg-name="BFM Business",BFM Business
 #KODIPROP:inputstream=inputstream.adaptive
