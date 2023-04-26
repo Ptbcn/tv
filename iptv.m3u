@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="News" tvg-name="24h",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-id="7NN.TV" tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="News" tvg-name="7NN Noticias",7NN Noticias
+EXTINF:-1 tvg-id="7NN.TV" tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="News" tvg-name="7NN Noticias",7NN Noticias
 https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsES.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="News" tvg-name="Euronews ES",Euronews ES
@@ -18,7 +18,7 @@ https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="News" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-id="BFMTV.TV" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News" tvg-name="BFMTV",BFMTV
+EXTINF:-1 tvg-id="BFMTV.TV" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News" tvg-name="BFMTV",BFMTV
 https://bfmtvalive1-a.akamaihd.net/r47fffa74638f461ab9168372ab825c95/eu-central-1/876450610001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BFMBusiness.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BFM-Business.png" group-title="News" tvg-name="BFM Business",BFM Business
@@ -26,7 +26,7 @@ https://bfmtvalive1-a.akamaihd.net/r47fffa74638f461ab9168372ab825c95/eu-central-
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
-#EXTINF:-1 tvg-id="LCI.TV" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="News" tvg-name="LCI",LCI
+EXTINF:-1 tvg-id="LCI.TV" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="News" tvg-name="LCI",LCI
 http://176.57.50.167:25461/536416/231244/84858?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="CNews.TV" tvg-logo="https://i.imgur.com/iWIjua3.png" group-title="News" tvg-name="CNews",CNews
@@ -41,13 +41,13 @@ https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="TV5Mondeinfo.TV" tvg-logo="https://i.imgur.com/NcysrWH.png" group-title="News" tvg-name="TV5 Monde Info",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
-#EXTINF:-1 tvg-id="FranceInfo.TV" group-title="News" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="FranceInfo", FranceInfo
+EXTINF:-1 tvg-id="FranceInfo.TV" group-title="News" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="FranceInfo", FranceInfo
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fri.m3u8
 
 #EXTINF:-1 tvg-id="LN24.TV" tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200" group-title="News" tvg-name="LN24",LN24 
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNPortugal.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="News" tvg-name="CNN Portugal",CNN Portugal
+EXTINF:-1 tvg-id="CNNPortugal.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="News" tvg-name="CNN Portugal",CNN Portugal
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIzIDc6MTM6NiBQTSZoYXNoX3ZhbHVlPXg1YkI1R29FM3BFYWF6dXZOUERaV1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jOTdkZDI0YS0wOTUwLTRhZjEtYTU2OS04Yzk2YzFiNmQzOWE=/
 
@@ -55,7 +55,7 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SIC Notícias.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="News" tvg-name="SIC Notícias",SIC Noticias 
+EXTINF:-1 tvg-id="SIC Notícias.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="News" tvg-name="SIC Notícias",SIC Noticias 
 http://176.57.50.167:25461/536416/231244/7699?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="EuronewsPT.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="News " tvg-name="Euronews PT",Euronews PT
