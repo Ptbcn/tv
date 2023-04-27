@@ -12,16 +12,13 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="News" tvg-name="El Toro TV",El Toro TV
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 
-#EXTINF:-1 tvg-id="3/24.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_3-24_de_TVC.jpg" group-title="News" tvg-name="3/24",3/24
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="News" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-id="BFMTV.TV" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News" tvg-name="BFMTV",BFMTV
-https://bfmtvalive1-a.akamaihd.net/r253dc974e55741fdaa2b250a83d40fa2/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u
+#EXTINF:-1 tvg-id="3/24.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_3-24_de_TVC.jpg" group-title="News" tvg-name="3/24",3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200" group-title="Int. Europa" tvg-name="BFM TV Francia",BFM TV Francia FR
+#EXTINF:-1 tvg-id="BFMTV.TV" tvg-logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200" group-title="News" tvg-name="BFMTV",BFMTV
 https://bfmtvalive1-a.akamaihd.net/r253dc974e55741fdaa2b250a83d40fa2/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-id="BFMBusiness.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BFM-Business.png" group-title="News" tvg-name="BFM Business",BFM Business
@@ -29,7 +26,7 @@ https://bfmtvalive1-a.akamaihd.net/r253dc974e55741fdaa2b250a83d40fa2/eu-central-
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
-EXTINF:-1 tvg-id="LCI.TV" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="News" tvg-name="LCI",LCI
+#EXTINF:-1 tvg-id="LCI.TV" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="News" tvg-name="LCI",LCI
 http://176.57.50.167:25461/536416/231244/84858?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="CNews.TV" tvg-logo="https://i.imgur.com/iWIjua3.png" group-title="News" tvg-name="CNews",CNews
@@ -44,13 +41,13 @@ https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="TV5Mondeinfo.TV" tvg-logo="https://i.imgur.com/NcysrWH.png" group-title="News" tvg-name="TV5 Monde Info",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
-EXTINF:-1 tvg-id="FranceInfo.TV" group-title="News" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="FranceInfo", FranceInfo
+#EXTINF:-1 tvg-id="FranceInfo.TV" group-title="News" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="FranceInfo", FranceInfo
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fri.m3u8
 
 #EXTINF:-1 tvg-id="LN24.TV" tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200" group-title="News" tvg-name="LN24",LN24 
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 
-EXTINF:-1 tvg-id="CNNPortugal.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="News" tvg-name="CNN Portugal",CNN Portugal
+#EXTINF:-1 tvg-id="CNNPortugal.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="News" tvg-name="CNN Portugal",CNN Portugal
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIzIDc6MTM6NiBQTSZoYXNoX3ZhbHVlPXg1YkI1R29FM3BFYWF6dXZOUERaV1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jOTdkZDI0YS0wOTUwLTRhZjEtYTU2OS04Yzk2YzFiNmQzOWE=/
 
@@ -58,16 +55,11 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
-EXTINF:-1 tvg-id="SIC Notícias.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="News" tvg-name="SIC Notícias",SIC Noticias 
+#EXTINF:-1 tvg-id="SIC Notícias.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="News" tvg-name="SIC Notícias",SIC Noticias 
 http://176.57.50.167:25461/536416/231244/7699?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="EuronewsPT.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="News " tvg-name="Euronews PT",Euronews PT
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="CNNInternational.TV" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320" group-title="News" tvg-name="CNN International",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -152,13 +144,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670610987/ei/y
 #EXTINF:-1 tvg-id="ABCaus.TV" tvg-logo="https://graph.facebook.com/abcnews.au/picture?width=200&height=200" group-title="News" tvg-name="ABC AUS",ABC AUS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="WeatherChannel.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News" tvg-name="Weather Channel",Weather Channel
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="España" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
